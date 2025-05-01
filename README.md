@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandra</h1>
 
-I'm currently studying Sotware Engineering/Computer Science at University of San Carlos of Guatemala
-
-* 🌍  I'm based in Guatemala
+* 👨‍💻 I'm currently studying Sotware Engineering/Computer Science at University of San Carlos of Guatemala
+* 🌍 I'm from Guatemala
 
 ### Skills
 
@@ -19,11 +18,5 @@ I'm currently studying Sotware Engineering/Computer Science at University of San
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaps05&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-<a href="http://www.github.com/aaps05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaps05&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/aaps05"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aaps05&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/aaps05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaps05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
