@@ -21,7 +21,7 @@ I'm currently studying Sotware Engineering/Computer Science at University of San
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aaps05"><img src="https://github-readme-stats.vercel.app/api?username=aaps05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="aaps05's GitHub stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaps05&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <a href="http://www.github.com/aaps05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaps05&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
