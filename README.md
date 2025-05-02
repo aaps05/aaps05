@@ -11,14 +11,7 @@
 
 ### Stats
 
-<div align="center"> 
-   <a href="https://github.com/aaps05">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaps05&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="https://github.com/aaps05">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaps05&theme=react&line_height=40&hide=css"/>
-  </a>
-</div>
+
 
 
 
