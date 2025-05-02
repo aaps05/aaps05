@@ -9,9 +9,8 @@
 </p>
 
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
 <div align="center"> 
    <a href="https://github.com/aaps05">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaps05&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
