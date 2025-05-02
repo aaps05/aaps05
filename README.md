@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandra</h1>
 
-* 👨‍💻 I'm currently studying Sotware Engineering/Computer Science at University of San Carlos of Guatemala
+#* 👨‍💻 I'm currently studying Sotware Engineering/Computer Science at University of San Carlos of Guatemala
 * 🌍 I'm from Guatemala
 
 ### Skills
