@@ -15,9 +15,9 @@
    <a href="https://github.com/aaps05">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaps05&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
-  <a href="https://github.com/aaps05">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaps05&theme=react&line_height=40&hide=css"/>
-  </a>
+  <p align="center">
+     <img width="53.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaps05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+   </p>
 </div>
 
 
