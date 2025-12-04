@@ -36,8 +36,8 @@
 
 <div align="center"> 
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaps05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <a>
-   </a>
+   <p>
+   </p>
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaps05&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
