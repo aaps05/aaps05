@@ -35,17 +35,8 @@
 ### Stats
 
 <div align="center"> 
-   <a href="https://github.com/aaps05">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=aaps05&theme=dark&show_icons=true&count_private=true" />
-  </a>
-  <a align="center">
-     <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aaps05&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-   </a>
-
-   <div align="center">
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaps05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaps05&layout=compact&langs_count=7&theme=midnight-purple"/>
-   </div>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaps05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaps05&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
